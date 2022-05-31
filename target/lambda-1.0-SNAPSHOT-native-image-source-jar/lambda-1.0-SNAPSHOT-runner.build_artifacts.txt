@@ -1,0 +1,3 @@
+[EXECUTABLE]
+lambda-1.0-SNAPSHOT-runner
+
